@@ -33,10 +33,11 @@ An AI-powered data analysis project designed to help users explore datasets and 
 - Python programming and analytical problem-solving
 - SQL for real-world business analysis
 - Power BI dashboard development
-- AWS and cloud fundamentals
+- AI and ML foundations
 
 ## 🤝 Let's Connect
 
 - **GitHub:** [Mareenahh](https://github.com/Mareenahh)
-- **LinkedIn:** Add your LinkedIn profile URL here
+- **LinkedIn:** www.linkedin.com/in/mareena-shaji
+
 
